@@ -1,6 +1,8 @@
 # Gricean Norms as a Basis for Effective Collaboration
 
-This project enhances human-agent collaboration by incorporating Gricean norms such as Quantity, Quality, Relation, and Manner into Lamoid, a GPT-4-powered agent, enabling it to interpret ambiguous, incomplete, irrelevant, invlaid and clear instructions in the Doors, Keys, and Gems grid world. Leveraging principles of common ground, relevance theory, and Theory of Mind (ToM), Lamoid aligns its responses with human intentions by inferring implicit goals and addressing norm violations through few-shot chain-of-thought demonstrations. This approach adhering to the Gricean nroms improves task accuracy, response clarity, and relevance, demonstrating the potential of structured norms and pragmatic reasoning in creating effective AI collaborators and cooperative assistants. 
+This project enhances human-agent collaboration by incorporating Gricean norms such as Quantity, Quality, Relation, and Manner into Lamoid, a GPT-4-powered agent, enabling it to interpret ambiguous, incomplete, irrelevant, invlaid and clear instructions in the Doors, Keys, and Gems grid world. Leveraging principles of common ground, relevance theory, and Theory of Mind (ToM), Lamoid aligns its responses with human intentions by inferring implicit goals and addressing norm violations through few-shot chain-of-thought demonstrations. 
+
+This approach adhering to the Gricean nroms improves task accuracy, response clarity, and relevance, demonstrating the potential of structured norms and pragmatic reasoning in creating effective AI collaborators and cooperative assistants. 
 
 For more details, see [our paper](https://www.not_availablenow.com):
 >Fardin Saad, Pradeep Murukannaiah, Munindar P. Singh. 2025. Gricean Norms as a Basis for Effective Collaboration. In Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025).
