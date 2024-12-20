@@ -1,4 +1,6 @@
 # Gricean Norms as a Basis for Effective Collaboration
+![Static Badge](https://img.shields.io/badge/LLM--agent-Lamoid-Green?logo=chatbot)
+![Static Badge](https://img.shields.io/badge/Norms-Cooperative%20Principle-blue?logo=python&logoColor=white)
 
 This project enhances human-agent collaboration by incorporating Gricean norms such as Quantity, Quality, Relation, and Manner into Lamoid, a GPT-4-powered agent, enabling it to interpret ambiguous, incomplete, irrelevant, invlaid and clear instructions in the Doors, Keys, and Gems grid world. Leveraging principles of common ground, relevance theory, and Theory of Mind (ToM), Lamoid aligns its responses with human intentions by inferring implicit goals and addressing norm violations through few-shot chain-of-thought demonstrations. 
 
